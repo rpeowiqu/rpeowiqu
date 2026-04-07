@@ -1,51 +1,78 @@
-## 안녕하세요, 백엔드 개발자 rpeowiqu입니다! 👋
-- 🌱 현재 삼성 청년 SW 아카데미(SSAFY)에서 학습 중입니다.
-- 💻 백엔드 개발자입니다.
-- 🎯 효율적인 서버 아키텍처 설계와 성능 최적화에 관심이 있습니다.
-- 🚀 CI/CD 파이프라인 구축 경험이 있습니다.
-- 📫 연락처: hanahyun1@korea.ac.kr
+# rpeowiqu
 
-## 🛠️ 기술 스택
+> Backend-oriented engineer interested in cloud-native infrastructure, reliable systems, and operational efficiency.
 
-### 🌐 프론트엔드(FE)
+서비스를 “만드는 것”뿐 아니라  
+**안정적으로 운영되는 구조를 설계하는 것**에 관심이 있습니다.
 
-#### 🌱 초급 (Beginner)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+- **SSAFY**에서는 백엔드 개발을 중심으로 학습했습니다.
+- **카카오테크 부트캠프 Bizkit 프로젝트**에서는  
+  클라우드 네이티브 환경에서 **AWS 운영과 인프라 구성**에 집중했습니다.
 
-### 💾 백엔드(BE)
+즉, 저는  
+**개발과 운영의 경계를 이해하는 백엔드 지향 엔지니어**로 성장하고 있습니다.
 
-#### 🔍 중급 (Intermediate)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+---
 
-#### 🌱 초급 (Beginner)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+## Selected Focus
 
-### 🔧 DevOps
+### Backend
+Java와 Spring 기반으로  
+비즈니스 로직, 데이터 처리, API 설계에 관심이 있습니다.
 
-#### 🌱 초급 (Beginner)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker_Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+### Cloud & Infra
+AWS 환경에서  
+배포 구조, 운영 안정성, 인프라 자동화, CI/CD 흐름에 관심이 있습니다.
 
-<!--
-**rpeowiqu/rpeowiqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I value
+- 읽기 쉬운 구조
+- 운영 가능한 설계
+- 병목을 줄이는 개선
+- 반복 작업의 자동화
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience Snapshot
+
+### SSAFY
+- 백엔드 개발 중심 학습
+- 서버 구조, 데이터 처리, API 구현 경험 축적
+
+### Kakao Tech Bootcamp — Bizkit
+- 클라우드 네이티브 과정 기반 프로젝트 수행
+- **AWS 운영 중심**
+- 배포 흐름, 인프라 구성, 운영 관점의 개선에 집중
+
+---
+
+## Tech
+
+**Backend**  
+`Java` `Spring Boot` `Spring` `MySQL` `MariaDB` `MongoDB`
+
+**Cloud / DevOps**  
+`AWS` `Docker` `Docker Compose` `Jenkins`
+
+**Frontend (for collaboration)**  
+`JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS`
+
+---
+
+## Currently Interested In
+
+- 안정적인 서버 아키텍처
+- 클라우드 환경에서의 운영 효율화
+- CI/CD 파이프라인 고도화
+- 성능 최적화와 장애 대응
+- 확장 가능한 시스템 설계
+
+---
+
+## Contact
+
+- **Email**: jaeseo.han02@gmail.com
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rpeowiqu&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpeowiqu&layout=compact)
