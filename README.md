@@ -6,7 +6,7 @@
 **안정적으로 운영되는 구조를 설계하는 것**에 관심이 있습니다.
 
 - **SSAFY**에서는 백엔드 개발을 중심으로 학습했습니다.
-- **카카오테크 부트캠프 Bizkit 프로젝트**에서는  
+- **카카오테크 부트캠프**에서는  
   클라우드 네이티브 환경에서 **AWS 운영과 인프라 구성**에 집중했습니다.
 
 즉, 저는  
@@ -48,12 +48,12 @@ AWS 환경에서
 ## Tech
 
 **Backend**  
-`Java` `Spring Boot` `Spring` `MySQL` `MariaDB` `MongoDB`
+`Java` `Spring Boot` `Spring` `MySQL` `MariaDB` `MongoDB` `Javascript` `TypeScript` `NestJS`
 
 **Cloud / DevOps**  
-`AWS` `Docker` `Docker Compose` `Jenkins`
+`AWS` `Docker`
 
-**Frontend (for collaboration)**  
+**Frontend**  
 `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS`
 
 ---
